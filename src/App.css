@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.center{
+  text-align: center;
+  background-color: cadetblue;
+}
+
+.bg{
+  background-color:yellow;
+}
+
+.bg-2{
+  background-color: tomato;
+}
